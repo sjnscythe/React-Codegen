@@ -1,0 +1,6 @@
+framework module Pods_React_Codegen_Tests {
+  umbrella header "Pods-React-Codegen_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

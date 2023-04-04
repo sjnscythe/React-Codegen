@@ -1,0 +1,16 @@
+PODS:
+  - React-Codegen (0.1.0)
+
+DEPENDENCIES:
+  - React-Codegen (from `../`)
+
+EXTERNAL SOURCES:
+  React-Codegen:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  React-Codegen: ef83b6dc1e30e906c35e40d53a97dc1e811ef2ea
+
+PODFILE CHECKSUM: 8bad9874667210195a1cbd73f273df69027574ae
+
+COCOAPODS: 1.12.0
